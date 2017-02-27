@@ -168,7 +168,7 @@
   
   .parallax {
     /* The image used */
-    background-image: url("http://booktrib.com/wp-content/uploads/2015/11/typewriter-revolution-main.gif");
+    background-image: url("http://i.huffpost.com/gen/2013028/images/o-TYPEWRITER-facebook.jpg");
     /* Set a specific height */
     min-height: 100%;
     /* Create the parallax scrolling effect */
