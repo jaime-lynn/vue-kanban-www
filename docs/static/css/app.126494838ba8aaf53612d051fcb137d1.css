@@ -1,0 +1,56 @@
+
+#app {
+  font-family: 'Avenir', Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-align: center;
+  color: #2c3e50;
+}
+
+a#logo-container:hover {
+    background-color: rgba(0, 0, 0, 0.1);
+}
+
+div.chip[data-v-49c58c80] {
+    margin: 10px;
+}
+
+.parallax-container[data-v-7d755e4a] {
+  height: 400px;
+}
+.parallax[data-v-7d755e4a] {
+  /* The image used */
+  background-image: url("http://booktrib.com/wp-content/uploads/2015/11/typewriter-revolution-main.gif");
+  /* Set a specific height */
+  min-height: 100%;
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.bgimg-2[data-v-7d755e4a] {
+  background-image: url("http://materializecss.com/templates/parallax-template/background1.jpg");
+  min-height: 100%;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.section[data-v-7d755e4a] {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+hr[data-v-7d755e4a] {
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+a[data-v-41f50306] {
+    color: #ffab40;
+}
+a[data-v-41f50306]:hover {
+    color: #ffd8a6;
+}
+
+/*# sourceMappingURL=app.126494838ba8aaf53612d051fcb137d1.css.map*/
