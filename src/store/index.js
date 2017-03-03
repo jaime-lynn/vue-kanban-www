@@ -156,6 +156,8 @@ export default {
                 password: password
             })
                 .then(res => {
+                    this.userBoards = [];
+                    this.sharedBoards = [];
                     state.user = res.data.data
                     this.getUserBoards()
                     this.getSharedBoards()
