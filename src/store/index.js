@@ -157,6 +157,8 @@ export default {
             })
                 .then(res => {
                     state.user = res.data.data
+                    this.getUserBoards()
+                    this.getSharedBoards()
                 })
                 .catch(handleError)
         },
